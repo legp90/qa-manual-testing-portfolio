@@ -6,17 +6,17 @@ Verificar que el sistema rechace el registro cuando la contraseña tenga menos d
 
 ## Precondiciones
 
-1. La aplicacion debe estar disponible
-2. El formulario de registro de usuarios debe estar accesible
-3. El correo de prueba no debe estar asociado a una cuenta existente
-4. El usuario no debe de tener una sesion iniciadoa.
+- La aplicacion debe estar disponible
+- El formulario de registro de usuarios debe estar accesible
+- El correo de prueba no debe estar asociado a una cuenta existente
+- El usuario no debe de tener una sesion iniciada.
 
 ## Datos de Prueba (Test Data)
 
-1. Correo electronico: luchoperez@gmail.com
-2. Contraseña: elexito
-3. Longitud de contraseña: 7 caracteres
-4. Tipo de prueba: Negative Test
+- Correo electronico: luchoperez@gmail.com
+- Contraseña: elexito
+- Longitud de contraseña: 7 caracteres
+- Tipo de prueba: Negative Test
 
 ## Pasos de prueba (Test Steps)
 

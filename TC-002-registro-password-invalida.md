@@ -29,3 +29,7 @@ Verificar que el sistema rechace el registro cuando la contraseña tenga menos d
 ## Resultado esperado (Expected Result)
 
 El sistema debe rechazar el registro por que la contraseña ingresada tiene 7 caracteres y no cumple con el mínimo requerido de 8 caracteres. No debe crearse una nueva cuenta de usuario.
+
+## Estado de la prueba (Test Status)
+
+Not Run - Pendiente de ejecucion.

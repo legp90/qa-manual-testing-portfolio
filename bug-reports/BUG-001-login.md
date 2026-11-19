@@ -8,9 +8,9 @@ Al intentar iniciar sesión con un correo electrónico y una contraseña validos
 
 ## Precondiciones
 
--El usuario debe de tener una cuenta registrada y activa.
--El usuario debe contar con un correo electronico y una contraseña validos.
--El usuario debe encontrarse en la pagina de inicio de sesion.
+- El usuario debe de tener una cuenta registrada y activa.
+- El usuario debe contar con un correo electronico y una contraseña validos.
+- El usuario debe encontrarse en la pagina de inicio de sesion.
 
 ## Pasos para reproducir
 

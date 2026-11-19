@@ -26,3 +26,6 @@ Verificar que el sistema rechace el registro cuando la contraseña tenga menos d
 4-Ingresar la contraseña: elexito
 5-Hacer clic en el boton "Registrarse"
 
+## Resultado esperado (Expected Result)
+
+El sistema debe rechazar el registro por que la contraseña ingresada tiene 7 caracteres y no cumple con el mínimo requerido de 8 caracteres. No debe crearse una nueva cuenta de usuario.
